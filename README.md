@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+📌 Detail-oriented and organized Computer Science student with excellent problem-solving and analytical skills. 
+🌟 Aspiring software engineer looking to apply my technical expertise and creativity. 
+🧠 Experienced in machine learning, software development, and project management through various academic and internship projects. 
+🌱 Passionate about finding solutions to solve real-world problems while creating impact. Strong leadership abilities as the ACM President at my school, along with a dedication to continuous learning and professional growth.
+
+## 🛠️ Skills & Tools
+➡️ Programming Languages: Java, Python, C++, C, SQL, Ruby, HTML, CSS, React, Javascript
+➡️ Tools & Technologies: Object-Oriented Programming, Data Analysis, Machine Learning, Database Systems, Git, Rails, MediaPipe, Postman, Docker, Swagger, Visual Studio Code, IntelliJ
